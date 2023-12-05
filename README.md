@@ -1,5 +1,11 @@
 # Ballon-pop-Game-OpenCV
 
+## Sample Output
+![image](https://github.com/MananPatel1105/Ballon-pop-Game-OpenCV/assets/104303233/a6d18057-39ef-4859-9af3-2fd871dba84b)
+
+### Final Score
+![3](https://github.com/MananPatel1105/Ballon-pop-Game-OpenCV/assets/104303233/a6427208-8e94-435d-97cd-63f5c8c04ebe)
+
 
 ## INTRODUTION
 
